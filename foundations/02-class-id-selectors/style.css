@@ -1,7 +1,6 @@
 .odd {
     background-color: #ffc0cb;
-    font-family: Verdana, sans-serif;
-    font-family: sans-serif;
+    font-family: Verdana, DejaVu Sans, sans-serif;
 }
 
 #two {
